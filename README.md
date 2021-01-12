@@ -1,5 +1,5 @@
-![Cover](https://github.com/Loic-Jouhans/Loic-Jouhans/blob/master/img/tatooine.gif)
-### Hi ! 👋
+<img src ="https://media.giphy.com/media/x06aatMp4EXrG/giphy.gif">
+### Hello World! 👋
 
 I'm Loïc
 
