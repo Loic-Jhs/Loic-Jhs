@@ -1,4 +1,7 @@
-### Hi there 👋
+
+### Hi ! 👋
+
+I'm Loïc
 
 <!--
 **Loic-Jouhans/Loic-Jouhans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
