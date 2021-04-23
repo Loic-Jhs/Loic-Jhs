@@ -2,7 +2,12 @@
 
 ### Hello World! 👋
 
-I'm Loïc
+I'm Loïc, padawan php/symfony developer in search of knowledge
+
+👨‍💼 i'm open to work ! 
+
+## Social 
+https://www.linkedin.com/in/loic-jouhans/
 
 <!--
 **Loic-Jouhans/Loic-Jouhans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
