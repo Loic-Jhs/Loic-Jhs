@@ -2,7 +2,7 @@
 
 ### Hello World! 👋
 
-I'm Loïc, padawan php/symfony developer in search of knowledge
+I'm Loïc, php/symfony developer in search of knowledge
 
 👨‍💼 i'm open to work ! 
 
