@@ -23,6 +23,8 @@ I'm Loïc, php/symfony developer in search of knowledge
 ## Social 
 https://www.linkedin.com/in/loic-jouhans/
 
+https://twitter.com/Jhsl__
+
 <!--
 **Loic-Jouhans/Loic-Jouhans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
