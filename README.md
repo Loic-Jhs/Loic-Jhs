@@ -1,4 +1,4 @@
-<img src ="https://media.giphy.com/media/x06aatMp4EXrG/giphy.gif">
+<img src ="https://i.pinimg.com/originals/8b/67/5e/8b675e441b9acf0aa9fbcb5027a08268.gif">
 
 ## Hello World! 👋
 
