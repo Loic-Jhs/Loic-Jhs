@@ -2,7 +2,7 @@
 
 ## Hello World! 👋
 
-I'm Loïc, php/symfony developer in search of knowledge
+I'm Loïc, php developer in search of knowledge !
 
 👨‍💼 i'm open to work ! 
 
@@ -20,20 +20,11 @@ I'm Loïc, php/symfony developer in search of knowledge
 
 <br>
 
-## Social 
-https://www.linkedin.com/in/loic-jouhans/
+## Social 👥
+[![Linkedin](https://img.shields.io/badge/-Jouhans%20Loic-blue?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/loic-jouhans/)
 
-<!--
-**Loic-Jouhans/Loic-Jouhans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Stats 📈
 
-Here are some ideas to get you started:
+<img align="left" width="47%" height="350px" src="https://github-readme-stats.vercel.app/api?username=Loic-Jouhans&hide=stars&show_icons=true&theme=blueberry" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="left" width="47%" height="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Loic-Jouhans&layout=compact&theme=blueberry" />  
