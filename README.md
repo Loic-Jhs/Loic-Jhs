@@ -2,9 +2,7 @@
 
 ## Hello World! 👋
 
-I'm Loïc, php developer in search of knowledge !
-
-👨‍💼 i'm open to work ! 
+I'm Loïc, web developer in search of knowledge !
 
 ## Languages and Tools:
 
