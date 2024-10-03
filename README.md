@@ -21,7 +21,8 @@ I like to learn new things and sometimes, i like to train on codewars
 
 <br><br>
 
-### Workflow: 
+### Cloud: 
 <img align="left" alt="gitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="bitbucket" width="40px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/cloud/bitbucketV2.svg" />
 <img align="left" alt="git" width="55px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/git.svg" />
+<img align="left" alt="git" width="55px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/cloud/docker.svg" />
