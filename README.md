@@ -1,10 +1,6 @@
 <img src ="https://i.pinimg.com/originals/8b/67/5e/8b675e441b9acf0aa9fbcb5027a08268.gif">
 
-## Hello ! 👋
-I'm Loïc, web developer <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30" height="30" align="center"/>
-<br />
-I like to learn new things and sometimes, i like to train on codewars
-<img src="https://www.codewars.com/users/Loic%20Jhs/badges/micro"  align="center"/>
+Just a chill guy who likes web dev <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30" height="30" align="center"/>
 
 ## 🛠 Languages and Tools:
 
